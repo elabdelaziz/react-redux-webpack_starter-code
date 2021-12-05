@@ -1,0 +1,4 @@
+npm i react react-dom react-router-dom redux react-redux redux-thunk
+npm i -D @babel/core @babel/preset-env @babel/preset-react babel-loader file-loader css-loader style-loader webpack webpack-cli html-webpack-plugin
+npm i webpack-dev-server
+npm install --save-dev style-loader
